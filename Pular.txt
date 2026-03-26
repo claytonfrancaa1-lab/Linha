@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    
+    printf("Linha 1\nLinha 2");
+
+    return 0;
+}
